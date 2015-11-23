@@ -1,6 +1,6 @@
 #Heading 1#
-    ##Heading 2##
+    <h2> heading 2</h2>
           lopus mangas
-          ###Heading 3###
+          <h3>Heading 3</h3>    
 
           Normal text
