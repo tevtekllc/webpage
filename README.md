@@ -4,7 +4,7 @@ Normal
 ###Test
 Normal
 Random number generator:
-
+```
   public static int randInt(int min, int max) {
     // Usually this can be a field rather than a method variable
     Random rand = new Random();
@@ -15,3 +15,4 @@ Random number generator:
 
     return randomNum;
   }
+```
